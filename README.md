@@ -31,7 +31,7 @@ In this project, we analyze data from an A/B test conducted by Vanguard to asses
 
 ## Deliverables
 
-- GitHub Repository: [Link to the GitHub repository](https://github.com/yourusername/vanguard-ab-test)
+- GitHub Repository: https://github.com/pmarquespt/Proj_5_Group_6_pat_gui.git
 - Jupyter Notebooks: Python notebooks containing the analysis code.
 - Python Scripts: Python scripts for data processing and analysis.
 - Presentation Slides: Slides summarizing key findings and recommendations.
